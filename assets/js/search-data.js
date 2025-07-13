@@ -37,12 +37,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
+        },{id: "dropdown-about",
+              title: "about",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/books/";
+                window.location.href = "/about/";
               },
             },{id: "dropdown-blog",
               title: "blog",
@@ -50,6 +50,27 @@ ninja.data = [{
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/blog/";
+              },
+            },{id: "dropdown-research",
+              title: "research",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/research/";
+              },
+            },{id: "dropdown-projects",
+              title: "projects",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/projects/";
+              },
+            },{id: "dropdown-cv",
+              title: "cv",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/cv/";
               },
             },{id: "post-a-post-with-plotly-js",
         
