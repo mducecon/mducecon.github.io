@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://depocen.org/en/'>Development and Policies Research Center (DEPOCEN)</a>. Hanoi, Vietnam. duc.doan@depocen.org.
+subtitle: "Wanna-be-economist".
 
 profile:
   align: right
