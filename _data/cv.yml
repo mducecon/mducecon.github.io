@@ -2,96 +2,118 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Manh-Duc DOAN
+    - name: Email
+      value: ducdm.edu@gmail.com
+    - name: Phone
+      value: +84 916 770 405
+    - name: LinkedIn
+      value: ducdoan01
     - name: Languages
-      value: English, German
+      value: Vietnamese (Native), English (Fluent), French (Fluent)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor of Arts in International Economics
+      institution: Foreign Trade University, Hanoi, Vietnam
+      year: 2021 - 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - "GPA: 3.77/4.00"
+        - "Relevant Coursework: Econometrics, Development Economics, International Trade, Environmental Economics, Statistics"
+        - "Thesis: Trade Liberalization, Human Capital and Child Labor: Evidence from Vietnam"
 
-- title: Experience
+- title: Work Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Assistant
+      institution: Development and Policies Research Center (DEPOCEN), Hanoi, Vietnam
+      year: 07/2024 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Conduct research on development economics, environmental policy, and sustainable development
+        - Analyze data using R, Stata, and Python for various research projects
+        - Contribute to policy briefs and research publications
+        - Collaborate with international researchers and institutions
+    - title: Research Assistant
+      institution: Vietnam Institute for Economic and Policy Research (VEPR), Hanoi, Vietnam
+      year: 07/2023 - 11/2023
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Assisted in economic policy research and analysis
+        - Conducted literature reviews and data collection for research projects
+        - Supported preparation of research reports and presentations
+    - title: Quantitative Research Intern
+      institution: WorldQuant Vietnam, Ho Chi Minh City, Vietnam
+      year: Summer 2023
       description:
+        - Developed and tested quantitative trading strategies
+        - Analyzed financial data using statistical methods
+        - Gained experience in algorithmic trading and financial modeling
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Research Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Research Assistant - Climate Change and Agroforestry Project (CAFSUS)
+      institution: University of Copenhagen & DEPOCEN
+      year: 2025 - Present
+      description:
+        - Collaborate on research examining climate change impacts on agroforestry systems
+        - Analyze household survey data on sustainable agricultural practices
+        - Contribute to policy recommendations for climate adaptation strategies
+    - title: Research Assistant - Tobacco Retail Price Survey
+      institution: DEPOCEN & Vietnam National University
+      year: 2024 - 2025
+      description:
+        - Conducted comprehensive survey of tobacco retail prices across Vietnam
+        - Analyzed price variations and market dynamics
+        - Contributed to policy analysis on tobacco taxation
+    - title: Research Assistant - Open Data Portal Assessment
+      institution: DEPOCEN, World Bank & MoIT
+      year: 2024
+      description:
+        - Evaluated effectiveness of Vietnam's government open data initiatives
+        - Assessed data accessibility and usage patterns
+        - Provided recommendations for improving data transparency
+
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: Teaching Assistant - Impact Evaluation
+      institution: Foreign Trade University
+      year: Fall 2023
+      description:
+        - Assisted in teaching data hand-on courses
+        - Conducted tutorial sessions and provided student support
+
+- title: Technical Skills
+  type: nested_list
+  contents:
+    - title: Statistical Software
+      items:
+        - R (Advanced) - Data analysis, econometrics, visualization
+        - Stata (Advanced) - Econometric analysis, panel data
+        - Python (Intermediate) - Data science, machine learning
+    - title: Other Technical Skills
+      items:
+        - LaTeX - Academic writing and document preparation
+        - Git/GitHub - Version control and collaboration
+        - Microsoft Office Suite - Advanced Excel, PowerPoint, Word
+        - Data visualization - ggplot2, matplotlib, Tableau
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Merit Scholarship, Foreign Trade University
+    - year: 2022
       items:
-        - Max Planck Medal
+        - Academic Excellence Award, Foreign Trade University
 
-- title: Academic Interests
+- title: Research Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Applied Econometrics
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Causal inference methods
+        - Panel data analysis
+        - Survey methodology and data collection
