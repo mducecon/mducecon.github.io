@@ -10,6 +10,7 @@ children:
   - title: divider
   - title: blog
     permalink: /blog/
+  - title: divider  
   - title: research
     permalink: /research/
   - title: divider
