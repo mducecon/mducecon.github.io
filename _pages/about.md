@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://ftu.edu.vn/en'>Foreign Trade University</a> • <a href='https://depocen.org/en/'>DEPOCEN</a> • Economics Research
+subtitle: "Wanna-be-economist"
 
 profile:
   align: right
