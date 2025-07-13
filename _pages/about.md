@@ -26,6 +26,6 @@ latest_posts:
 
 I am Manh-Duc DOAN, a fresher graduate in economics at Foreign Trade University, Hanoi, Vietnam. Currently, I work as a Research Assistant at the Development and Policies Research Center (DEPOCEN). 
 
-I am passionate about applied microeconomics, mainly focus on political economy, cultural economics, industrial organization, labor and education economics.
+My research interest is applied microeconomics, which mainly focuses on political economy, cultural economics, industrial organization, labor and education economics.
 
 I am actively seeking opportunities to pursue graduate studies in mathematics and economics.
