@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "Wanna-be-economist"
+subtitle: young and foolish
 
 profile:
   align: right
