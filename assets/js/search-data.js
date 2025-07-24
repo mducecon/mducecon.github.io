@@ -433,14 +433,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+            },},{id: "projects-cafsus",
+          title: 'CAFSUS',
+          description: "Climate Change Mitigation in Agroforest Landscapes through Sustainable Sourcing Policies \",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-tobacco-retail-price-survey-2025",
+          title: 'Tobacco Retail Price Survey 2025',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
