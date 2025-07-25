@@ -435,7 +435,7 @@ ninja.data = [{
               window.location.href = "/books/the_godfather/";
             },},{id: "projects-cafsus",
           title: 'CAFSUS',
-          description: "Climate Change Mitigation in Agroforest Landscapes through Sustainable Sourcing Policies \",
+          description: "Climate Change Mitigation in Agroforest Landscapes through Sustainable Sourcing Policies",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-tobacco-retail-price-survey-2025",
