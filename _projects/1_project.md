@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CAFSUS
-description: Climate Change Mitigation in Agroforest Landscapes through Sustainable Sourcing Policies \
+description: "Climate Change Mitigation in Agroforest Landscapes through Sustainable Sourcing Policies"
 img: assets/img/12.jpg
 importance: 1
 category: work
